@@ -115,8 +115,8 @@ body {
     width: 40px;
     border-radius: 3px;
     cursor: pointer;
-    background-color: gray;
-    color: white;
+    background-color: var(--color-tone-4);
+    color: var(--color-tone-1);
     font-size: 1rem;
     text-transform: uppercase;
 }
@@ -131,8 +131,8 @@ body {
     width: 70px;
     border-radius: 3px;
     cursor: pointer;
-    background-color: gray;
-    color: white;
+    background-color: var(--color-tone-4);
+    color: var(--color-tone-1);
     font-size: 1rem;
     text-transform: uppercase;
 }

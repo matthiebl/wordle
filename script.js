@@ -134,7 +134,7 @@ function checkGuess () {
             // shade green 
             letterColor = '#28941a'
         } else if (letterPosition === -1) {
-            letterColor = '#333333'
+            letterColor = '#878a8c'
         } else {
             // shade box yellow
             letterColor = '#c2b117'
